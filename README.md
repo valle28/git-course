@@ -8,3 +8,6 @@ This section is supposed to contain some first steps material
 
 änderung
  
+## Git Push
+
+vom local zum remote
